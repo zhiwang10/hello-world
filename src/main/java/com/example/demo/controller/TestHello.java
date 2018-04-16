@@ -12,7 +12,7 @@ public class TestHello {
         return "hello";
     }
 
-    // 这是一个方法......12344
+    // 这是一个方法......12344456
     @RequestMapping("/student")
     public Student student(){
         Student s = new Student();
